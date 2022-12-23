@@ -19,6 +19,7 @@ int main(){
     double score = correct / (double) questions * 100; //converts fraction to double so its not rounded down
     cout << score;
     return 0;
+
 }
 
 //Note

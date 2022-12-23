@@ -30,3 +30,5 @@ int main(){
 //op + adds 
 //op - subtracts or -- (short for quick subtraction)
 //op * multiplication
+// || is the or operator (do this or)
+// && the and operator
