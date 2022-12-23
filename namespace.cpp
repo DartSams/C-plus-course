@@ -9,11 +9,11 @@ namespace second{
     int x = 6;
 }
 
-// int main(){
+int main(){
 
-//     std::cout << first::d;
-//     return 0;
-// }
+    std::cout << first::d;
+    return 0;
+}
 
 //Note
 //each variable needs a unique name
@@ -24,7 +24,7 @@ namespace second{
 // namespace can also be defined within function instead of on each line
     // int main(){
     //     using namespace first;
-
+        
     //     std::cout << x;
     // }
 
@@ -34,6 +34,8 @@ namespace second{
         //     std::cout << first::d;
         //     return 0;
         // }   
+
+    //cant use namespaces that have the same variable in side them Ex. cant put using namespace first; and using namespace second; in the same function if they have same variable inside them
 
 //save time with standard namespace expert only as you no longer have to write std:: for any builtin function (bad practice for beginners)
     // int main(){
