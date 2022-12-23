@@ -9,11 +9,11 @@ namespace second{
     int x = 6;
 }
 
-int main(){
+// int main(){
 
-    std::cout << first::d;
-    return 0;
-}
+//     std::cout << first::d;
+//     return 0;
+// }
 
 //Note
 //each variable needs a unique name
@@ -39,5 +39,7 @@ int main(){
     // int main(){
     //     using namespace std;
 
-    //     string sentence = "Hello world";
+        // string sentence = "Hello world";
+        // cout << sentence
+        // return 0
     // }
