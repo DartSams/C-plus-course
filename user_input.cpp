@@ -14,6 +14,7 @@ int main(){
 }
 
 //Notes
+// Follow this tutorial https://www.youtube.com/watch?v=9VE7p-he4fA&ab_channel=CodeBear to run any c++ file and https://www.youtube.com/watch?v=UPda5iNot-k&ab_channel=senoopsy
 //must be run using the terminal not vscode output terminal go to settings > preferences > code runner > code runner:run in terminal
 // cout << output
 //for cin >> input
